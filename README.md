@@ -1,18 +1,19 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 world! !👋, I'm <i>Utkarsh Raj</i></h1>
 <p align="center"><i>I am a Full Stack Developer, always conjuring new and innovative solutions with the power of code. Technology is my passion, and I approach every project with enthusiasm and a thirst for knowledge, eager to unlock the potential of every byte. I'm currently looking for new opportunities!</i></p>
 <br/>
-<br/>
-<a href="https://theroyalra.github.io/">
+<br/><div align="center">
+<a href="https://theroyalraj.netlify.app/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://theroyalraj.netlify.app" />
 </a>
 <a title="raj.utkarsh001@gmail.com" href="mailto:raj.utkarsh001@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="raj.utkarsh001@gmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/theroyalraj/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/falgun-bokde-93108b189/" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/theroyalraj" />
 </a>
 <br/>
 <br/>
+</div>
 <a href="#"><img align="center" width="100%" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif" alt="gif" /></a>
 <!-- <br/>
 
