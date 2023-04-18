@@ -53,7 +53,7 @@
   # 📊 GitHub Stats:
 <p align="center">
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarsh-raj-73&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theroyalraj&show_icons=true&theme=default" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theroyalraj&theme=default" /> 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theroyalraj&theme=default" align="center" />
