@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 world! !👋, I'm <i>Utkarsh Raj</i></h1>
-<p align="center"><i>I am a Full Stack Developer, always conjuring new and innovative solutions with the power of code. Technology is my passion, and I approach every project with enthusiasm and a thirst for knowledge, eager to unlock the potential of every byte. I'm currently looking for new opportunities!</i></p>
+<p align="center"><i>I am a Full Stack Developer, always conjuring new and innovative solutions with the power of code. Technology is my passion, and I approach every project with enthusiasm and a thirst for knowledge, eager to unlock the potential of every byte!</i></p>
 <br/>
 <br/><div align="center">
 <a href="https://theroyalraj.netlify.app/">
